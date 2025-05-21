@@ -1,0 +1,6 @@
+BrandAnalysis.class
+BrandAnalysis$BrandStats.class
+BrandAnalysis$ResultReducer.class
+BrandAnalysis$ResultMapper.class
+BrandAnalysis$BrandMapper.class
+BrandAnalysis$BrandReducer.class
